@@ -1,5 +1,5 @@
 from sklearn.base import BaseEstimator
-from sklearn.linear_model import LinearRegression, LogisticRegression
+from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.svm import LinearSVR, SVR
 from sklearn.tree import DecisionTreeRegressor
